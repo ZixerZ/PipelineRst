@@ -1,2 +1,0 @@
-# PipelineRst
-TesApp-pipeline
